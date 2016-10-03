@@ -1,2 +1,3 @@
 Simple test.
 Some new text.
+Some other text.
